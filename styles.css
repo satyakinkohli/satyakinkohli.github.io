@@ -1,0 +1,107 @@
+body {
+	/* background-color: #8000ff; */
+	background-color: black;
+	font-size: 25px;
+	color: white;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.left,
+.right {
+	flex-basis: 50%;
+}
+
+.myname {
+	font-family: Hahmlet;
+	text-align: center;
+}
+
+.aboutme {
+	/* font-family: "Sora"; */
+	/* font-family: "JetBrains Mono"; */
+	/* font-family: "Montserrat"; */
+	/* font-family: "Epilogue"; */
+	/* font-family: "Inter"; */
+	/* font-family: "Encode Sans"; */
+	/* font-family: "Manrope"; */
+	/* font-family: "Archivo"; */
+	font-family: "Roboto";
+	text-align: center;
+	position: relative;
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+.mymetadata {
+	padding-left: 75px;
+	padding-right: 75px;
+	/* font-family: "Sora"; */
+	/* font-family: "JetBrains Mono"; */
+	/* font-family: "Montserrat"; */
+	/* font-family: "Epilogue"; */
+	/* font-family: "Inter"; */
+	/* font-family: "Encode Sans"; */
+	/* font-family: "Manrope"; */
+	/* font-family: "Archivo"; */
+	font-family: "Roboto";
+	text-align: center;
+}
+
+.mysocials {
+	/* font-family: "Sora"; */
+	/* font-family: "JetBrains Mono"; */
+	/* font-family: "Montserrat"; */
+	/* font-family: "Epilogue"; */
+	/* font-family: "Inter"; */
+	/* font-family: "Encode Sans"; */
+	/* font-family: "Manrope"; */
+	/* font-family: "Archivo"; */
+	font-family: "Roboto";
+	text-align: center;
+}
+
+#outside-links {
+	color: #8000ff;
+	text-decoration: none;
+	font-style: italic;
+}
+#outside-links:hover {
+	color: white;
+	font-style: normal;
+}
+
+.myimage {
+	text-align: center;
+}
+#myimage {
+	height: 325px;
+	width: 325px;
+	border-radius: 250px;
+	cursor: -webkit-grabbing;
+	cursor: grabbing;
+	position: relative;
+	bottom: 55px;
+}
+
+.socialicon {
+	background-position: 0 0;
+	margin-top: 32px;
+	width: 32px;
+	height: 32px;
+	font-size: 24px;
+	color: white;
+	/* color: pink; */
+	text-align: center;
+}
+
+.text-icon {
+	color: lightskyblue;
+}
