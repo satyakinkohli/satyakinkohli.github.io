@@ -5,66 +5,20 @@ body {
 	color: white;
 }
 
-.flex-container {
-	display: flex;
-	flex-wrap: wrap;
-	height: 100%;
-	justify-content: center;
-	align-items: center;
-	align-content: center;
-}
-
-.left,
-.right {
-	flex-basis: 50%;
-}
-
 .myname {
-	font-family: Hahmlet;
+	font-family: "Sora";
 	text-align: center;
-}
-
-.aboutme {
-	/* font-family: "Sora"; */
-	/* font-family: "JetBrains Mono"; */
-	/* font-family: "Montserrat"; */
-	/* font-family: "Epilogue"; */
-	/* font-family: "Inter"; */
-	/* font-family: "Encode Sans"; */
-	/* font-family: "Manrope"; */
-	/* font-family: "Archivo"; */
-	font-family: "Roboto";
-	text-align: center;
-	position: relative;
-	padding-left: 75px;
-	padding-right: 75px;
 }
 
 .mymetadata {
-	padding-left: 75px;
-	padding-right: 75px;
-	/* font-family: "Sora"; */
-	/* font-family: "JetBrains Mono"; */
-	/* font-family: "Montserrat"; */
-	/* font-family: "Epilogue"; */
-	/* font-family: "Inter"; */
-	/* font-family: "Encode Sans"; */
-	/* font-family: "Manrope"; */
-	/* font-family: "Archivo"; */
-	font-family: "Roboto";
+	padding-left: 275px;
+	padding-right: 275px;
+	font-family: "Sora";
 	text-align: center;
 }
 
 .mysocials {
-	/* font-family: "Sora"; */
-	/* font-family: "JetBrains Mono"; */
-	/* font-family: "Montserrat"; */
-	/* font-family: "Epilogue"; */
-	/* font-family: "Inter"; */
-	/* font-family: "Encode Sans"; */
-	/* font-family: "Manrope"; */
-	/* font-family: "Archivo"; */
-	font-family: "Roboto";
+	font-family: "Sora";
 	text-align: center;
 }
 
@@ -74,7 +28,8 @@ body {
 	font-style: italic;
 }
 #outside-links:hover {
-	color: white;
+	color: pink;
+	/* color: white; */
 	font-style: normal;
 }
 
@@ -88,7 +43,7 @@ body {
 	cursor: -webkit-grabbing;
 	cursor: grabbing;
 	position: relative;
-	bottom: 55px;
+	margin-top: 100px;
 }
 
 .socialicon {
