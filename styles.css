@@ -140,9 +140,9 @@ body {
 		font-style: italic;
 	}
 	#outside-links:hover {
-		color: pink;
+		color: #8000ff;
 		/* color: white; */
-		font-style: normal;
+		font-style: italic;
 	}
 
 	.myimage {
