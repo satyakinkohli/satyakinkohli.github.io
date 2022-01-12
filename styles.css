@@ -105,3 +105,71 @@ body {
 .text-icon {
 	color: lightskyblue;
 }
+
+@media screen and (max-width: 481px) {
+	body {
+		/* background-color: #8000ff; */
+		background-color: black;
+		font-size: 20px;
+		color: white;
+	}
+
+	.myname {
+		font-family: "Sora";
+		text-align: center;
+		padding-left: 25px;
+		padding-right: 25px;
+		font-size: 22px;
+	}
+
+	.mymetadata {
+		padding-left: 27px;
+		padding-right: 27px;
+		font-family: "Sora";
+		text-align: center;
+	}
+
+	.mysocials {
+		font-family: "Sora";
+		text-align: center;
+	}
+
+	#outside-links {
+		color: #8000ff;
+		text-decoration: none;
+		font-style: italic;
+	}
+	#outside-links:hover {
+		color: pink;
+		/* color: white; */
+		font-style: normal;
+	}
+
+	.myimage {
+		text-align: center;
+	}
+	#myimage {
+		height: 275px;
+		width: 275px;
+		border-radius: 250px;
+		cursor: -webkit-grabbing;
+		cursor: grabbing;
+		position: relative;
+		margin-top: 55px;
+	}
+
+	.socialicon {
+		background-position: 0 0;
+		margin-top: 32px;
+		width: 32px;
+		height: 32px;
+		font-size: 24px;
+		color: white;
+		/* color: pink; */
+		text-align: center;
+	}
+
+	.text-icon {
+		color: lightskyblue;
+	}
+}
