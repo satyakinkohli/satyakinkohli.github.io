@@ -90,12 +90,12 @@ body {
 	}
 
 	#outside-links {
-		color: pink;
+		color: #8000ff;
 		text-decoration: none;
 		font-style: italic;
 	}
 	#outside-links:hover {
-		color: pink;
+		color: #8000ff;
 		/* color: white; */
 		font-style: italic;
 	}
