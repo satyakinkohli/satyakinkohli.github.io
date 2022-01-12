@@ -65,7 +65,7 @@ body {
 	body {
 		/* background-color: #8000ff; */
 		background-color: black;
-		font-size: 25px;
+		font-size: 20px;
 		color: white;
 	}
 
@@ -74,7 +74,7 @@ body {
 		text-align: center;
 		padding-left: 25px;
 		padding-right: 25px;
-		font-size: 20px;
+		font-size: 23px;
 	}
 
 	.mymetadata {
