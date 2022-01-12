@@ -72,11 +72,13 @@ body {
 	.myname {
 		font-family: "Sora";
 		text-align: center;
+		padding-left: 25px;
+		padding-right: 25px;
 	}
 
 	.mymetadata {
-		padding-left: 25px;
-		padding-right: 25px;
+		padding-left: 35px;
+		padding-right: 35px;
 		font-family: "Sora";
 		text-align: center;
 	}
@@ -107,7 +109,7 @@ body {
 		cursor: -webkit-grabbing;
 		cursor: grabbing;
 		position: relative;
-		margin-top: 75px;
+		margin-top: 25px;
 	}
 
 	.socialicon {
