@@ -64,7 +64,7 @@ body {
 @media screen and (max-width: 481px) {
 	body {
 		/* background-color: #8000ff; */
-		background-color: red;
+		background-color: black;
 		font-size: 25px;
 		color: white;
 	}
@@ -75,8 +75,8 @@ body {
 	}
 
 	.mymetadata {
-		padding-left: 275px;
-		padding-right: 275px;
+		padding-left: 25px;
+		padding-right: 25px;
 		font-family: "Sora";
 		text-align: center;
 	}
@@ -101,13 +101,13 @@ body {
 		text-align: center;
 	}
 	#myimage {
-		height: 325px;
-		width: 325px;
+		height: 275px;
+		width: 275px;
 		border-radius: 250px;
 		cursor: -webkit-grabbing;
 		cursor: grabbing;
 		position: relative;
-		margin-top: 100px;
+		margin-top: 75px;
 	}
 
 	.socialicon {
