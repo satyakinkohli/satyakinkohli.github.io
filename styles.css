@@ -89,14 +89,13 @@ body {
 	}
 
 	#outside-links {
-		color: #8000ff;
+		color: pink;
 		text-decoration: none;
 		font-style: italic;
 	}
 	#outside-links:hover {
 		color: #8000ff;
-		/* color: white; */
-		font-style: italic;
+		/* font-style: italic; */
 	}
 
 	.myimage {
