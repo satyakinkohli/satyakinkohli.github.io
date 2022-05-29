@@ -23,22 +23,21 @@ body {
 }
 
 #outside-links {
-	color: #8000ff;
+	color: pink;
 	text-decoration: none;
 	font-style: italic;
 }
 #outside-links:hover {
-	color: pink;
-	/* color: white; */
-	font-style: normal;
+	color: #8000ff;
+	/* font-style: normal; */
 }
 
 .myimage {
 	text-align: center;
 }
 #myimage {
-	height: 325px;
-	width: 325px;
+	height: 300px;
+	width: 300px;
 	border-radius: 250px;
 	cursor: -webkit-grabbing;
 	cursor: grabbing;
